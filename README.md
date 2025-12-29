@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+!;)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 Software Developer <br>👯 I’m looking to collaborate on flutter or PHP projects<br>🌱 I’m currently learning python <br>⚡ Interested in IoT and AI
 
